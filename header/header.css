@@ -1,0 +1,12 @@
+
+.serviceHours{
+margin: 10px;
+font-size:30px;
+}.linkes{
+    display: flex;
+    justify-content: space-around;
+}.navBar{
+    
+    background-color: black;
+    color: white;
+}

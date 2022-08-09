@@ -1,0 +1,28 @@
+body{
+background-color: rgba(192, 192, 192, 0.16);
+}.inputDiv{
+text-align: center;
+
+
+}.avritismen{
+  
+    text-align:center;
+   padding: 1rem;
+    font-size : 1.5rem;
+    background-color: rgba(192, 192, 192, 0.548);
+    border: 1px solid;
+    border-radius: 18px;
+    
+}.avritismen h1{
+    text-decoration-line: underline;
+
+}.user{
+    background-color:rgba(61, 61, 199, 0.452);
+    color: white;
+    width:30%;
+    padding: 3px;
+    margin: 25px;
+    text-align: center;
+  
+
+}
